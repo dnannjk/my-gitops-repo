@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: 767398147229.dkr.ecr.us-east-1.amazonaws.com/gitworkflowrepo:20240606123849
+          image: 767398147229.dkr.ecr.us-east-1.amazonaws.com/gitworkflowrepo:20240606124901
           ports:
             - containerPort: 8080
           resources:
